@@ -1,0 +1,162 @@
+body{
+	margin: 0;
+	padding: 0;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	min-height: 100vh;
+	font-family: 'Jost', sans-serif;
+	background: linear-gradient(to bottom, #e33d4b, #a4394b, #77373e);
+}
+.main{
+	width: 350px;
+	height: 500px;
+	background: red;
+	overflow: hidden;
+	background: url("https://i.pinimg.com/originals/16/69/e5/1669e57761ccc67fa5e31a09a54764d0.gif") no-repeat center/ cover;
+	border-radius: 10px;
+	box-shadow: 5px 20px 50px #000;
+}
+#chk{
+	display: none;
+}
+.signup{
+	position: relative;
+	width:100%;
+	height: 100%;
+}
+label{
+	color: #fff;
+	font-size: 2.3em;
+	justify-content: center;
+	display: flex;
+	margin: 60px;
+	font-weight: bold;
+	cursor: pointer;
+	transition: .5s ease-in-out;
+}
+input{
+	width: 60%;
+	height: 20px;
+	background: #fffdfd;
+	justify-content: center;
+	display: flex;
+	margin: 20px auto;
+	padding: 10px;
+	border: none;
+	outline: none;
+	border-radius: 5px;
+}
+button{
+	width: 60%;
+	height: 40px;
+	margin: 10px auto;
+	justify-content: center;
+	display: block;
+	color: #fff;
+	background: #e83c4b;
+	font-size: 1em;
+	font-weight: bold;
+	margin-top: 20px;
+	outline: none;
+	border: none;
+	border-radius: 5px;
+	transition: .2s ease-in;
+	cursor: pointer;
+}
+button:hover{
+	background: #e83c4b;
+}
+.login{
+	height: 460px;
+	background: #eee;
+	border-radius: 60% / 10%;
+	transform: translateY(-180px);
+	transition: .8s ease-in-out;
+}
+.login label{
+	color: #e83c4b;
+	transform: scale(.6);
+}
+
+#chk:checked ~ .login{
+	transform: translateY(-500px);
+}
+#chk:checked ~ .login label{
+	transform: scale(1);	
+}
+#chk:checked ~ .signup label{
+	transform: scale(.6);
+}
+
+/* ===== Scrollbar CSS ===== */
+  /* Firefox */
+  * {
+    scrollbar-width: auto;
+    scrollbar-color: #e83c4b #ffffff;
+  }
+
+  /* Chrome, Edge, and Safari */
+  *::-webkit-scrollbar {
+    width: 16px;
+  }
+
+  *::-webkit-scrollbar-track {
+    background: #ffffff;
+  }
+
+  /* Logo  */
+  #gkLogo {
+    float: left;
+    margin: 0 0 0 -449px;
+    padding: 0;
+    text-indent: -999em;
+    text-shadow: none;
+    height: 100vh;
+}
+#gkLogo img {
+	display: block;
+	margin: 0;
+}
+#gkLogo.cssLogo {
+	background: url('https://www.fesc.edu.co/portal/images/logo.png') no-repeat center center;
+	/* You can specify there logo size and background */
+	height: 75px;
+	width: 274px;
+}
+.svg #gkLogo.cssLogo {
+	background-image: url('https://www.fesc.edu.co/portal/images/logo.png');
+}
+#gkLogo.text {
+	color: #fff;
+	display: inline-block;
+	font-size: 20px;
+	font-weight: normal;
+	height: 75px;
+	line-height: 63px;
+	margin: 0;
+	text-shadow: 1px 1px 1px rgba(0, 0, 0, .44);
+	text-align: center;
+	text-indent: 0;
+	text-transform: uppercase;
+	width: auto;
+}
+#gkLogo.text > span {
+	display: block;
+	font-size: 30px;
+	line-height: 60px;
+	padding: 0;
+}
+#gkLogo.text .gkLogoSlogan {
+	display: block;
+	font-size: 14px;
+	line-height: 1;
+	margin-top: -12px;
+}
+
+
+  *::-webkit-scrollbar-thumb {
+    background-color: #e83c4b;
+    border-radius: 10px;
+    border: 3px solid #ffffff;
+  }

@@ -1,0 +1,317 @@
+body {
+	margin: 0;
+	padding: 0;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	min-height: 100vh;
+	font-family: 'Jost', sans-serif;
+	overflow: hidden;
+	position: relative;
+	background: url("https://i.ibb.co/tXJ07wq/1000-F-525917089-4-E0gd-N4-Eyhk-U4i9yh3-Gb-Rb-Bmhc97jzin-transformed.jpg") no-repeat center/cover;
+}
+
+.background {
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	top: 0;
+	left: 0;
+	z-index: -1;
+	overflow: hidden;
+}
+
+.background img {
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
+	filter: blur(8px);
+	animation: smoothBackground 20s linear infinite;
+}
+
+@keyframes smoothBackground {
+	0% {
+		background-position: 0% 50%;
+	}
+	50% {
+		background-position: 100% 50%;
+	}
+	100% {
+		background-position: 0% 50%;
+	}
+}
+
+.particles {
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	top: 0;
+	left: 0;
+	z-index: 1;
+}
+
+.particle {
+	position: absolute;
+	width: 10px;
+	height: 10px;
+	background: rgba(255, 255, 255, 0.5);
+	border-radius: 50%;
+	animation: particleAnimation 3s linear infinite;
+}
+
+@keyframes particleAnimation {
+	0% {
+		transform: translate(0, 0) rotate(0);
+		opacity: 1;
+	}
+	100% {
+		transform: translate(800px, 800px) rotate(1080deg);
+		opacity: 0;
+	}
+}
+
+.main {
+	width: 350px;
+	height: 500px;
+	background: url("https://i.pinimg.com/originals/16/69/e5/1669e57761ccc67fa5e31a09a54764d0.gif") no-repeat center/cover;
+	overflow: hidden;
+	border-radius: 10px;
+	box-shadow: 5px 20px 50px #000;
+	position: relative;
+	z-index: 2;
+	pointer-events: auto;
+}
+
+#chk {
+	display: none;
+}
+
+.signup {
+	position: relative;
+	width: 100%;
+	height: 100%;
+}
+
+label {
+	color: #fff;
+	font-size: 2.3em;
+	justify-content: center;
+	display: flex;
+	margin: 44px;
+	font-weight: bold;
+	cursor: pointer;
+	transition: .5s ease-in-out;
+}
+
+input {
+	width: 60%;
+	height: 20px;
+	background: #fffdfd;
+	justify-content: center;
+	display: flex;
+	margin: 20px auto;
+	padding: 10px;
+	border: none;
+	outline: none;
+	border-radius: 5px;
+}
+
+button {
+	width: 60%;
+	height: 40px;
+	margin: 10px auto;
+	justify-content: center;
+	display: block;
+	color: #fff;
+	background: #e83c4b;
+	font-size: 1em;
+	font-weight: bold;
+	margin-top: 20px;
+	outline: none;
+	border: none;
+	border-radius: 5px;
+	transition: .2s ease-in;
+	cursor: pointer;
+}
+
+button:hover {
+	background: #e83c4b;
+}
+
+.login {
+	height: 460px;
+	background: #eee;
+	border-radius: 60% / 10%;
+	transform: translateY(-180px);
+	transition: .8s ease-in-out;
+}
+
+.login label {
+	color: #e83c4b;
+	transform: scale(.6);
+}
+
+#chk:checked~.login {
+	transform: translateY(-500px);
+}
+
+#chk:checked~.login label {
+	transform: scale(1);
+}
+
+#chk:checked~.signup label {
+	transform: scale(.6);
+}
+  
+  /* Scrollbar CSS */
+  
+  /* Firefox */
+  * {
+	scrollbar-width: auto;
+	scrollbar-color: #e83c4b #ffffff;
+  }
+  
+  /* Chrome, Edge, and Safari */
+  *::-webkit-scrollbar {
+	width: 16px;
+  }
+  
+  *::-webkit-scrollbar-track {
+	background: #ffffff;
+  }
+  
+  *::-webkit-scrollbar-thumb {
+	background-color: #e83c4b;
+	border-radius: 10px;
+	border: 3px solid #ffffff;
+  }
+  
+  /* Logo */
+  
+  #gkLogo {
+	float: left;
+	margin: 0 0 0 -449px;
+	padding: 0;
+	text-indent: -999em;
+	text-shadow: none;
+	height: 100vh;
+  }
+  
+  #gkLogo img {
+	display: block;
+	margin: 0;
+  }
+  
+  #gkLogo.cssLogo {
+	background: url('https://www.fesc.edu.co/portal/images/logo.png') no-repeat center center;
+	/* You can specify the logo size and background here */
+	height: 75px;
+	width: 274px;
+  }
+  
+  .svg #gkLogo.cssLogo {
+	background-image: url('https://www.fesc.edu.co/portal/images/logo.png');
+  }
+  
+  #gkLogo.text {
+	color: #fff;
+	display: inline-block;
+	font-size: 20px;
+	font-weight: normal;
+	height: 75px;
+	line-height: 63px;
+	margin: 0;
+	text-shadow: 1px 1px 1px rgba(0, 0, 0, .44);
+	text-align: center;
+	text-indent: 0;
+	text-transform: uppercase;
+	width: auto;
+  }
+  
+  #gkLogo.text>span {
+	display: block;
+	font-size: 30px;
+	line-height: 60px;
+	padding: 0;
+  }
+  
+  #gkLogo.text .gkLogoSlogan {
+	display: block;
+	font-size: 14px;
+	line-height: 1;
+	margin-top: -12px;
+  }
+  
+  /* Animation */
+  
+  @keyframes gradientAnimation {
+	0% {
+	  background-position: 0% 50%;
+	}
+	50% {
+	  background-position: 100% 50%;
+	}
+	100% {
+	  background-position: 0% 50%;
+	}
+  }
+  
+  .main {
+	animation: gradientAnimation 40s ease infinite;
+  }
+  
+  /* Responsive Styles */
+  
+  @media (max-width: 768px) {
+	.main {
+	  width: 90%;
+	  height: 400px;
+	}
+  
+	label {
+	  font-size: 1.5em;
+	}
+  
+	input {
+	  width: 80%;
+	}
+  
+	button {
+	  width: 80%;
+	}
+  
+	.login {
+	  height: 360px;
+	}
+  
+	.login label {
+	  font-size: 1em;
+	}
+  }
+  
+  @media (max-width: 480px) {
+	.main {
+	  width: 90%;
+	  height: 300px;
+	}
+  
+	label {
+	  font-size: 1.2em;
+	}
+  
+	input {
+	  width: 80%;
+	}
+  
+	button {
+	  width: 80%;
+	}
+  
+	.login {
+	  height: 280px;
+	}
+  
+	.login label {
+	  font-size: 0.8em;
+	}
+  }
