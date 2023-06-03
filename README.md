@@ -20,7 +20,7 @@ Este proyecto es una implementación de la Plazoleta FESC, un sistema para la ge
 ## Vista previa de la plataforma
 Aquí hay una vista previa de la plataforma Plazoleta FESC:
 
-[![Vista previa](https://i.ibb.co/bgrq5kq/fesc.png)](https://david-deveas1.42web.io/plazoletafesc/login.php)
+[![Vista previa](styleReadme/exampleViewprev.gif)](https://david-deveas1.42web.io/plazoletafesc/login.php)
 
 ---
 
