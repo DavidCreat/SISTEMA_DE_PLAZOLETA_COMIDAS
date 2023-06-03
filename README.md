@@ -17,6 +17,13 @@ Este proyecto es una implementación de la Plazoleta FESC, un sistema para la ge
 
 ---
 
+## Vista previa de la plataforma
+Aquí hay una vista previa de la plataforma Plazoleta FESC:
+
+[![Vista previa](https://example.com/preview-image.png)](https://david-deveas1.42web.io/plazoletafesc/login.php)
+
+---
+
 ## Licencia
 Este proyecto se distribuye bajo la [Licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional](http://creativecommons.org/licenses/by-nc-sa/4.0/). Consulta el archivo [LICENSE](LICENSE) para obtener más información.
 
