@@ -20,7 +20,7 @@ Este proyecto es una implementación de la Plazoleta FESC, un sistema para la ge
 ## Vista previa de la plataforma
 Aquí hay una vista previa de la plataforma Plazoleta FESC:
 
-[![Vista previa](https://example.com/preview-image.png)](https://david-deveas1.42web.io/plazoletafesc/login.php)
+[![Vista previa](https://i.ibb.co/bgrq5kq/fesc.png)](https://david-deveas1.42web.io/plazoletafesc/login.php)
 
 ---
 
@@ -48,7 +48,4 @@ Si deseas contribuir a este proyecto, sigue los pasos a continuación:
 ---
 
 ## Recursos adicionales
-- [Documentación](https://github.com/DavidCreat/Plazoleta-FESC/wiki)
-- [Issues](https://github.com/DavidCreat/Plazoleta-FESC/issues)
-- [Proyectos](https://github.com/DavidCreat/Plazoleta-FESC/projects)
-- [Discusiones](https://github.com/DavidCreat/Plazoleta-FESC/discussions)
+- [Proyectos](https://github.com/DavidCreat)
