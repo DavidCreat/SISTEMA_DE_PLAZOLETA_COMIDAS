@@ -25,6 +25,11 @@ Aquí tienes una vista previa de la plataforma Plazoleta FESC:
 [![Vista previa](https://example.com/preview-image.png)](https://david-deveas1.42web.io/plazoletafesc/login.php)
 
 ---
+## [⚠️] IMPORTANTE
+
+**Este sistema aún no está completo para su descarga pública.** Si deseas obtener el sistema completo, contáctame para discutir y llegar a un acuerdo sobre el uso del proyecto.
+
+---
 
 ## 🌮 Descripción
 
