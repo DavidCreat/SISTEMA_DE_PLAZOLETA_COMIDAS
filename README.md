@@ -18,6 +18,13 @@
 </p>
 
 ---
+## 🌟 Vista previa de la plataforma
+
+Aquí tienes una vista previa de la plataforma Plazoleta FESC:
+
+[![Vista previa](https://example.com/preview-image.png)](https://david-deveas1.42web.io/plazoletafesc/login.php)
+
+---
 
 ## 🌮 Descripción
 
