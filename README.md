@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Licencia-CC%20BY--NC--SA%204.0-blue" alt="Licencia">
   </a>
   <a href="https://github.com/DavidCreat/SISTEMA_DE_PLAZOLETA_COMIDAS/stargazers">
-    <img src="https://github.com/DavidCreat/SISTEMA_DE_PLAZOLETA_COMIDAS/stargazers" alt="GitHub Stars">
+    <img src="https://i.ibb.co/Gnm2rnc/estrella.png" alt="GitHub Stars">
   </a>
 </p>
 
