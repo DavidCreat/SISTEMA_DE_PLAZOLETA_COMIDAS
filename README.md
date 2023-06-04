@@ -12,7 +12,7 @@
   <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/">
     <img src="https://img.shields.io/badge/Licencia-CC%20BY--NC--SA%204.0-blue" alt="Licencia">
   </a>
-  <a href="https://github.com/DavidCreat/Plazoleta-FESC">
+  <a href="https://github.com/DavidCreat/SISTEMA_DE_PLAZOLETA_COMIDAS/stargazers">
     <img src="https://github.com/DavidCreat/SISTEMA_DE_PLAZOLETA_COMIDAS/stargazers" alt="GitHub Stars">
   </a>
 </p>
