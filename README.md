@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<h1 align="center">Plazoleta FESC</h1>
+<h1 align="center">🌮 Plazoleta FESC 🍔</h1>
 
 <p align="center">Por <a href="https://github.com/DavidCreat">David Fonseca</a> ✨</p>
 
@@ -21,7 +21,7 @@
 
 ## Descripción
 
-El proyecto **Plazoleta FESC** es un innovador sistema de gestión de comidas diseñado para la facultad de ingeniería. Este sistema permite realizar pedidos, administrar menús y controlar el inventario de alimentos de manera eficiente y sencilla.
+🍽️ El proyecto **Plazoleta FESC** es una plataforma innovadora para la gestión de comidas en la facultad de ingeniería. ¡Nunca fue tan fácil pedir tu comida favorita en la FESC! 🚀
 
 ---
 
@@ -52,7 +52,7 @@ Sigue estos pasos para instalar y ejecutar el proyecto en tu máquina local:
 
 ## Contribución
 
-Si deseas contribuir a este proyecto, ¡te damos la bienvenida! Sigue estos pasos:
+¡Queremos que formes parte de este proyecto! Si deseas contribuir, sigue estos pasos:
 
 1. Haz un fork de este repositorio.
 2. Crea una nueva rama: `git checkout -b feature/nueva-funcionalidad`.
@@ -63,4 +63,8 @@ Si deseas contribuir a este proyecto, ¡te damos la bienvenida! Sigue estos paso
 ---
 
 ## Recursos adicionales
-- 📂 [Proyectos]([https://github.com/DavidCreat](https://github.com/DavidCreat?tab=repositories))
+
+📚 [Documentación](https://github.com/DavidCreat/Plazoleta-FESC/wiki) 📚
+🐞 [Issues](https://github.com/DavidCreat/Plazoleta-FESC/issues) 🐞
+📂 [Proyectos](https://github.com/DavidCreat?tab=repositories) 📂
+💬 [Discusiones](https://github.com/DavidCreat/Plazoleta-FESC/discussions) 💬
