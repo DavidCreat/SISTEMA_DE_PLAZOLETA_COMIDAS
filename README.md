@@ -19,33 +19,33 @@
 
 ---
 
-## Descripción
+## 🌮 Descripción
 
-El sistema de marketplace de la plazoleta de comidas es un proyecto de base de datos desarrollado para una entidad universitaria. El objetivo principal del sistema es facilitar la gestión de una plazoleta de comidas donde múltiples vendedores ofrecen sus productos culinarios a estudiantes y personal universitario.
+El sistema de marketplace de la plazoleta de comidas es un proyecto de base de datos desarrollado para una entidad universitaria. El objetivo principal del sistema es facilitar la gestión de una plazoleta de comidas 🍽️ donde múltiples vendedores ofrecen sus productos culinarios a estudiantes y personal universitario.
 
 ### Módulos del Sistema
 
-#### Registro de Vendedores
+#### 👥 Registro de Vendedores
 
 Este módulo permite a los vendedores interesados registrarse en el sistema proporcionando información básica, como nombre, dirección, información de contacto y detalles sobre los alimentos que ofrecen. Se verifica la autenticidad de la información proporcionada antes de que se apruebe el registro del vendedor.
 
-#### Catálogo de Productos
+#### 📦 Catálogo de Productos
 
 Una vez que los vendedores están registrados, pueden agregar y actualizar sus productos en el catálogo del sistema. Pueden incluir detalles como nombre del producto, descripción, ingredientes, precio y disponibilidad. Los vendedores también pueden agregar imágenes atractivas para mostrar sus productos.
 
-#### Gestión de Pedidos
+#### 📝 Gestión de Pedidos
 
 Los usuarios del sistema, como estudiantes y personal universitario, pueden acceder a la plataforma y explorar los productos disponibles en la plazoleta de comidas. Pueden realizar pedidos seleccionando los productos deseados y agregándolos al carrito de compras virtual. Una vez que se completa el pedido, el sistema envía una confirmación al usuario y al vendedor correspondiente.
 
-#### Gestión de Pagos
+#### 💰 Gestión de Pagos
 
 El sistema ofrece opciones de pago seguras y convenientes. Los usuarios pueden realizar pagos en línea a través de métodos como tarjetas de crédito, tarjetas de débito o billeteras electrónicas. El sistema garantiza la protección de la información financiera del usuario durante el proceso de pago.
 
-#### Calificaciones y Reseñas
+#### ⭐ Calificaciones y Reseñas
 
 Después de recibir su pedido, los usuarios tienen la opción de calificar y dejar comentarios sobre los productos y la experiencia general. Esto proporciona retroalimentación valiosa tanto para los vendedores como para otros usuarios, ayudando a mantener la calidad y el servicio al cliente en la plazoleta de comidas.
 
-#### Administración del Sistema
+#### 🛠️ Administración del Sistema
 
 El sistema cuenta con un panel de administración donde el personal de la entidad universitaria puede monitorear y gestionar la actividad del marketplace. Pueden aprobar nuevos registros de vendedores, supervisar los pedidos, gestionar pagos y resolver cualquier problema o conflicto que surja.
 
@@ -57,13 +57,13 @@ Este proyecto de base de datos ofrece a los estudiantes de la entidad universita
 
 ---
 
-## Licencia
+## 📄 Licencia
 
 Este proyecto se distribuye bajo la [Licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional](http://creativecommons.org/licenses/by-nc-sa/4.0/). Consulta el archivo [LICENSE](LICENSE) para obtener más información.
 
 ---
 
-## Instalación
+## 🛠️ Instalación
 
 Sigue estos pasos para instalar y ejecutar el proyecto en tu máquina local:
 
@@ -74,7 +74,7 @@ Sigue estos pasos para instalar y ejecutar el proyecto en tu máquina local:
 
 ---
 
-## Contribución
+## 👥 Contribución
 
 Si deseas contribuir a este proyecto, ¡te damos la bienvenida! Sigue estos pasos:
 
@@ -86,6 +86,5 @@ Si deseas contribuir a este proyecto, ¡te damos la bienvenida! Sigue estos paso
 
 ---
 
-## Recursos adicionales
+## 📚 Recursos adicionales
 - 📂 [Proyectos]([https://github.com/DavidCreat](https://github.com/DavidCreat?tab=repositories))
-
