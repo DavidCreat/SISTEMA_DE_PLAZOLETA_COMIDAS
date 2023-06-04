@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Licencia-CC%20BY--NC--SA%204.0-blue" alt="Licencia">
   </a>
   <a href="https://github.com/DavidCreat/Plazoleta-FESC">
-    <img src="https://img.shields.io/github/stars/DavidCreat/Plazoleta-FESC" alt="GitHub Stars">
+    <img src="[https://img.shields.io/github/stars/DavidCreat/Plazoleta-FESC](https://github.com/DavidCreat/SISTEMA_DE_PLAZOLETA_COMIDAS/stargazers)" alt="GitHub Stars">
   </a>
 </p>
 
