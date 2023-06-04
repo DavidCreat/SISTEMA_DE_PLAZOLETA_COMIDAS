@@ -56,7 +56,15 @@ Los usuarios del sistema, como estudiantes y personal universitario, pueden acce
 
 #### 💰 Gestión de Pagos
 
-El sistema ofrece opciones de pago seguras y convenientes. Los usuarios pueden realizar pagos en línea a través de métodos como tarjetas de crédito, tarjetas de débito o billeteras electrónicas. El sistema garantiza la protección de la información financiera del usuario durante el proceso de pago.
+El sistema ofrece opciones de pago seguras y convenientes. Los usuarios pueden realizar pagos en línea a través de métodos como tarjetas de crédito, tarjetas de débito o billeteras electrónicas. Para garantizar la seguridad de las transacciones financieras, el sistema utiliza la API de PayPal, una reconocida plataforma de pagos en línea.
+
+La integración de la API de PayPal permite a los usuarios realizar pagos de forma rápida y confiable. Durante el proceso de pago, se encripta la información financiera del usuario y se envía de forma segura a PayPal para su procesamiento. Esto garantiza la protección de los datos sensibles y brinda tranquilidad tanto a los usuarios como a los vendedores.
+
+Además, la API de PayPal proporciona funcionalidades adicionales, como la gestión de reembolsos y la generación de informes de transacciones. Esto facilita la administración de los pagos y brinda una mayor transparencia en el flujo de dinero dentro del sistema.
+
+La integración de la API de PayPal en el sistema de gestión de pagos de la plazoleta de comidas es un elemento clave para ofrecer una experiencia segura y confiable a los usuarios. Garantiza que los pagos se realicen de manera eficiente y protege la información financiera de los usuarios en todo momento.
+
+Si tienes alguna pregunta o necesitas más información, no dudes en contactarme.
 
 #### ⭐ Calificaciones y Reseñas
 
@@ -104,4 +112,5 @@ Si deseas contribuir a este proyecto, ¡te damos la bienvenida! Sigue estos paso
 ---
 
 ## 📚 Recursos adicionales
-- 📂 [Proyectos]([https://github.com/DavidCreat](https://github.com/DavidCreat?tab=repositories))
+- 📂 [Proyectos](https://github.com/DavidCreat)
+- 🌩️ [Contacto](david.fonseca12p@gmail.com)
